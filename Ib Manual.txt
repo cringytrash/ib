@@ -1,0 +1,115 @@
+...................................................................................................
+- Title		Ib
+- Version		1.07
+- Tool		RPG Maker 2000 VALUE!
+- Author		kouri
+- Game Type	Freeware
+- Genre		Horror Adventure
+- Translation	vgperson (http://vgperson.com/games/ib.htm)
+...................................................................................................
+
+= How to Start / Troubleshooting =
+Make sure to extract the .zip file first.
+Then run "StartWindowed" to play in a window, or "StartFullscreen" to play in fullscreen.
+
+When reading a certain storybook, you may get the error "No such interface supported."
+A video is supposed to play at that point, but it may not work for some.
+Switching to windowed mode may help, and you can also try updating your video codecs.
+If it still won't work, you can skip watching the video by choosing the other dialogue option.
+The video that is meant to play can be found in the Movie folder and watched externally.
+
+= Important Note =
+Please do not reprint or misappropriate any kind of material or data used in the game.
+(The free BGM and sound effects may be used if permission is granted from their respective creators.)
+
+...................................................................................................
+
+= Controls =
+
+Arrow Keys		Move Character
+Escape Key or X Key	Open Item Menu, Cancel
+Enter Key		Talk, Check, Confirm
+Shift Key			Return to Title
+F12 Key			Reset (Forcibly return to title)
+F4 Key or Alt+Enter	Toggle Windowed/Fullscreen Mode
+F5 Key			Change Window Size
+
+- Saving -
+Progress can be saved by checking tables with a quill pen and open notebook.
+If the notebook is closed, it cannot be used.
+
+...................................................................................................
+
+- Summary -
+A girl named Ib goes to an art gallery with her parents.
+But it soon unfolds that she much search through the eerie gallery for a way out.
+
+- A Word -
+There are no battles.
+The difficulty is designed such that even those not good at games can progress.
+I hope you enjoy the horror atmosphere of the game.
+
+...................................................................................................
+
+= Resources Used =
+
+YASU pochi Guitar Diary
+http://www.asahi-net.or.jp/~yd9y-wtnb/
+
+Free BGM DOVA-SYNDROME
+http://dova-s.jp/
+
+Presence of music
+http://www.presence-of-music.com/index.html
+
+Classical Music Sound Library
+http://classical-sound.seesaa.net/
+
+Asterisk
+http://www.geocities.co.jp/Bookend-Hemingway/5727/sozai/index.html
+
+Amacha Music Studio
+http://amachamusic.chagasi.com/
+
+Royalty
+http://pianosdauge.org/index.html
+
+Pocket Sound
+http://pocket-se.info/
+
+Effective Sounds
+http://koukaongen.com/
+
+Miya Factory Home Page
+http://www.miyafactory.net/
+
+The Matchmakers 2nd
+http://osabisi.sakura.ne.jp/m2/
+
+WEB WAVE LIB
+http://www.s-t-t.com/
+
+And other paid sounds.
+
+- Thank you for your cooperation! -
+
+...................................................................................................
+
+- Update Log -
+02/27/2012   Ib ver. 1.00 released
+03/06/2012   Several bugs fixed, included patch for people who couldn't play video
+03/09/2012   Ib ver. 1.01 released
+03/25/2012   Several bugs fixed
+                   Added bookshelves that supplement the story
+                   Adjusted difficulty of action segments
+02/20/2014   Ib ver. 1.06 released
+                   Minor bug fixes
+06/19/2014   Ib ver. 1.07 released
+                   Reduced processing load for health display
+                   Modified an odd-sounding line
+
+- Author's Homepage -
+http://kouri.kuchinawa.com/
+
+- Author's Email -
+akamik@mail.goo.ne.jp
